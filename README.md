@@ -1,7 +1,7 @@
 # week1_8weekSQL
 # SQL Challenge - Week 1
 
-![Case Study #1](1)
+![Case Study #1](1.png)
 
 ## Overview
 This repository contains SQL queries for the first week of an 8-week SQL challenge. The queries are designed to analyze customer purchases at a restaurant, providing insights such as total spending, visit counts, popular menu items, and loyalty program effects.
